@@ -1,1 +1,1 @@
-# miniproject stockmarket performance analysis using pythom in jupyter notebook 
+# miniproject stockmarket performance analysis using python in jupyter notebook 
